@@ -1,0 +1,9 @@
+OrderID,Product,Category,Quantity,Price,Sales,Date
+1001,Laptop,Electronics,2,50000,100000,2024-01-10
+1002,Mouse,Electronics,5,500,2500,2024-01-12
+1003,Chair,Furniture,3,3000,9000,2024-02-05
+1004,Table,Furniture,1,7000,7000,2024-02-10
+1005,Notebook,Stationery,10,50,500,2024-03-01
+1006,Pen,Stationery,20,10,200,2024-03-02
+1007,Monitor,Electronics,2,12000,24000,2024-03-15
+1008,Sofa,Furniture,1,20000,20000,2024-04-01
